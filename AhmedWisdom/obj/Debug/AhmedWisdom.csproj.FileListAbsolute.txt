@@ -1,0 +1,6 @@
+C:\Users\harrison.kees\Documents\C# Workspace\AhmedWisdom\AhmedWisdom\bin\Debug\AhmedWisdom.exe.config
+C:\Users\harrison.kees\Documents\C# Workspace\AhmedWisdom\AhmedWisdom\bin\Debug\AhmedWisdom.exe
+C:\Users\harrison.kees\Documents\C# Workspace\AhmedWisdom\AhmedWisdom\bin\Debug\AhmedWisdom.pdb
+C:\Users\harrison.kees\Documents\C# Workspace\AhmedWisdom\AhmedWisdom\obj\Debug\AhmedWisdom.csprojAssemblyReference.cache
+C:\Users\harrison.kees\Documents\C# Workspace\AhmedWisdom\AhmedWisdom\obj\Debug\AhmedWisdom.exe
+C:\Users\harrison.kees\Documents\C# Workspace\AhmedWisdom\AhmedWisdom\obj\Debug\AhmedWisdom.pdb
